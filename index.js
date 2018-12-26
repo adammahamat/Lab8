@@ -5,7 +5,7 @@ var types = {
     glass: true,
 };
 
-function filter() {
+function filter() { //фильтер
     var root = document.getElementById('content');
 
     var nodes = root.childNodes;
